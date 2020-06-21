@@ -15,9 +15,12 @@ Data:
 2. Users' interactions with articles - user-item-interactions.csv
 
 There are 6 parts in this project:
+
 I. Exploratory Data Analysis
+
 II. Rank Based Recommendations
+
 III. User-User Based Collaborative Filtering
-IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
+IV. Content Based Recommendations (skipped for now)
 V. Matrix Factorization
 VI. Extras & Concluding
