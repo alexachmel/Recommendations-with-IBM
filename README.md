@@ -1,4 +1,4 @@
-# Recommendations-with-IBM
+# Recommendations with IBM
 
 For this project I analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations to them about new articles I think they will like.
 
